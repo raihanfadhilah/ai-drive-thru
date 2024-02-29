@@ -57,7 +57,7 @@ I chose Weaviate for my vector database for two reasons:
 1. **I can run the DB on a separate container instance, hence updatable/maintable.**
 2. **They have a very fast hybrid search and I achieved <50ms on all queries**
 
-The following code snippet can be found in `demo.ipynb`
+The following code snippet can be found in `RAG.ipynb`
 
 ```c
 test_queries = [
